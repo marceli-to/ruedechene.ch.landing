@@ -46,8 +46,8 @@
             <x-form.checkbox-label for="interest-75">7.5-pièces</x-form.checkbox-label>
           </div>
           <div>
-            <x-form.checkbox name="interest" value="Gewerbe" isWire="true" class="-mt-4" id="gewerbe" />
-            <x-form.checkbox-label for="gewerbe">Gewerbe</x-form.checkbox-label>
+            <x-form.checkbox name="interest" value="Loft" isWire="true" class="-mt-4" id="loft" />
+            <x-form.checkbox-label for="loft">Loft</x-form.checkbox-label>
           </div>
         </div>
         <div class="flex justify-end">

@@ -12,7 +12,7 @@
 <x-layout.section class="bg-white">
   <x-layout.inner>
     <div class="max-w-3xl">
-      <h1 class="max-w-xl">Venez vivre l’expérience «Creative Factory»</h1>
+      <h1 class="max-w-2xl">Venez vivre l’expérience «Creative Factory»</h1>
       <h2 class="text-xl">Nouvelle promotion!<br>Appartements et surfaces commerciales</h2>
       <p>Proche de la gare, à la rue du Chêne 5 à Renens, des appartements modernes de 1,5 à 7,5 pièces ainsi que des lofts et des surfaces commerciales seront disponibles à la location dès le 1er septembre 2025.</p>
       <p>Côté parc : des logements atypiques à caractère « loft-activité » verront ainsi le jour et bénéficieront de l’exposition favorable, du dégagement visuel et du calme du nouveau jardin arboré. Côté voie de chemin de fer : des ateliers et commerces. Le Pavillon accueillera des logements en colocation, ainsi que des activités ouvertes au public en rez-de-chaussée.</p>

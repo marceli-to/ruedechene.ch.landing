@@ -1,27 +1,27 @@
 <x-mail::message>
   <div class="text-base pb-base">
-    Sehr geehrte Damen und Herren<br><br>
-    Danke für Ihr Interesse an unserem Projekt. Gerne kontaktieren wir Sie, sobald die offizielle Vermarktung startet.<br><br>
-    Ihr Rütlistrasse Effretikon-Team
+    Mesdames et Messieurs<br><br>
+    Nous vous remercions de l'intérêt que vous portez à notre projet. Nous nous ferons un plaisir de vous contacter dès que la commercialisation officielle sera lancée.<br><br>
+    Votre équipe de la «Creative Factory»
   </div>
   <br>
   <div class="text-base pb-base">
-    <strong>Ihre Angaben:</strong>
+    <strong>Vos coordonnées :</strong>
   </div>
   <div class="text-base pb-base">
-    <strong>Vorname</strong><br>
+    <strong>Prénom</strong><br>
     {{ $data->firstname }}
   </div>
   <div class="text-base pb-base">
-    <strong>Name</strong><br>
+    <strong>Nom</strong><br>
     {{ $data->name }}
   </div>
   <div class="text-base pb-base">
-    <strong>Strasse/Nr.</strong><br>
+    <strong>Rue/numéro</strong><br>
     {{ $data->street }}
   </div>
   <div class="text-base pb-base">
-    <strong>PLZ/Ort</strong><br>
+    <strong>NPA/localité</strong><br>
     {{ $data->location }}
   </div>
   <div class="text-base pb-base">
@@ -29,11 +29,11 @@
     {{ $data->email }}
   </div>
   <div class="text-base pb-base">
-    <strong>Telefon</strong><br>
+    <strong>Téléphone</strong><br>
     {{ $data->phone }}
   </div>
   <div class="text-base pb-base">
-    <strong>Wohnung</strong><br>
+    <strong>Intérêt pour :</strong><br>
     {{ $data->interest }}
   </div>
 </x-mail::message>

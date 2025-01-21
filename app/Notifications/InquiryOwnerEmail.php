@@ -41,7 +41,7 @@ class InquiryOwnerEmail extends Notification
     return (new MailMessage)
       ->from(env('MAIL_FROM_ADDRESS'))
       ->replyTo(env('MAIL_TO'))
-      ->subject('Interessent ruetlistrasse-effretikon.ch')
+      ->subject('Interessent creativefactory-renens.ch')
       ->markdown('mail.inquiry.owner', ['data' => $this->data]);
   }
 
